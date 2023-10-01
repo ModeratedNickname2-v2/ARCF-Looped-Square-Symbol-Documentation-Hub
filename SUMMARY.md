@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+## General Info
+
+* [Rules](README.md)
+* [Information](general-info/information.md)
