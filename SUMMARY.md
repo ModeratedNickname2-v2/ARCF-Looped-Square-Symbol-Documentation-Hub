@@ -1,7 +1,8 @@
 # Table of contents
 
-## General Info
+## Information
 
 * [Rules](README.md)
-* [Information](general-info/information.md)
-* [Department List](general-info/department-list.md)
+* [Site-⌘ Information](information/information.md)
+* [Department List](information/department-list.md)
+* [Blacklist Information](information/blacklist-information.md)
