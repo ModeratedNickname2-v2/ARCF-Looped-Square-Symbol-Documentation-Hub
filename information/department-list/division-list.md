@@ -18,9 +18,15 @@ description: This will also include task forces.
 
 ## Tactical Response Team
 
-
+\[CLASSIFIED]
 
 ## Mobile Task Forces
+
+Rho-36 designated Breachers Pets are in charge of recontainment of escaped anomalies.
+
+Psi-9 designated Abyss Gazers are in charge of riot control and safeguarding the facility from raids by hostile groups.
+
+Titan-1 designated Off The Books is in charge of guarding high ranking personnel and VIPs and also helps Psi-9 with defending raids.
 
 
 
