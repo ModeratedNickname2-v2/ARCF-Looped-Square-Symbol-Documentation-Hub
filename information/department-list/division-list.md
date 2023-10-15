@@ -14,7 +14,7 @@ description: This will also include task forces.
 
 ## Administrative Committee
 
-
+Office of The Administrator or OoTA are in charge of just assisting The Administrator.
 
 ## Tactical Response Team
 
@@ -32,11 +32,14 @@ Resh-1 designated Seat of Consciousness is the personal task force for The Admin
 
 ## Site Security Team
 
+Combat Medical Unit or CMU are in charge of quickly healing foundation members during combat.
 
+Military Police or MP are in charge of enforcing traffic rules and listen to the Board of Ethics.
 
 ## Research & Science Department
 
-
+N/A
 
 ## Healing & Medical Services
 
+N/A
