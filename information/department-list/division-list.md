@@ -28,7 +28,7 @@ Psi-9 designated Abyss Gazers are in charge of riot control and safeguarding the
 
 Titan-1 designated Off The Books is in charge of guarding high ranking personnel and VIPs and also helps Psi-9 with defending raids.
 
-
+Resh-1 designated Seat of Consciousness is the personal task force for The Administrator and answers only directly to The Administrator.
 
 ## Site Security Team
 
