@@ -14,7 +14,7 @@
 
 ## Tactical Response Team
 
-\[CLASSIFIED]
+
 
 ## Mobile Task Forces
 
