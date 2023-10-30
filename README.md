@@ -1,13 +1,9 @@
-# Rules
+# Site-⌘ Information
 
-## Rule #1.
+## Links
 
-Placeholder
+\[Code of Ethics]\([https://personal-95.gitbook.io/arcf-code-of-ethics](https://personal-95.gitbook.io/arcf-code-of-ethics/))
 
-## Rule #2.
+\[Permanent Discord Invite]\(https://discord.gg/PGUpKs6Rp8)
 
-Placeholder
-
-## Rule #3.
-
-Placeholder
+## FAQ
