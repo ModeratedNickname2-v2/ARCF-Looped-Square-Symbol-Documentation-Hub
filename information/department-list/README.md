@@ -32,7 +32,7 @@ The Site Security Team which will be referred to as SST now are in charge of mak
 
 The Research & Science Department which will be referred to as R\&SD now are the people that host tests among other things and is lead by O5-10.
 
-## Healing & Medical Services
+## Healing & Medical Service
 
 The Healing & Medical Service which will be referred to as H\&MS now are in charge of making sure all foundation members are in good health and unharmed though will not fight only heal and is lead by O5-5.
 

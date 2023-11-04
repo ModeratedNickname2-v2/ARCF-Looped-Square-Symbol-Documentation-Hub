@@ -32,5 +32,5 @@
 
 
 
-## Healing & Medical Services
+## Healing & Medical Service
 
