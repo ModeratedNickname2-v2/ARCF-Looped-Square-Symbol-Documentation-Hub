@@ -12,6 +12,10 @@ The Board of Ethics which will be referred to as BoE now is the primary enforcem
 
 The Administrative Committee which will be referred to as AC now is
 
+## Manufacturing Department
+
+The Manufacturing Department which will be referred to as MaD now are responsible for the manufacturing of the facility and is lead by O5-6.
+
 ## Tactical Response Team
 
 The Tactical Response Team which will be referred to as TRT now are the first people to respond to incidents and are usually stationed at higher risk areas that regular security officers are unable to handle properly and are to help Mobile Task Forces and is lead by O5-7.
