@@ -2,7 +2,7 @@
 
 ## Links
 
-\[Code of Ethics]\([https://personal-95.gitbook.io/arcf-code-of-ethics](https://personal-95.gitbook.io/arcf-code-of-ethics/))
+\[Code of Ethics]\([https://trello.com/b/Z6V31sEl](https://trello.com/b/Z6V31sEl))
 
 \[Permanent Discord Invite]\(https://discord.gg/PGUpKs6Rp8)
 
