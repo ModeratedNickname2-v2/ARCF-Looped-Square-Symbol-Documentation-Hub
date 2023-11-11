@@ -24,7 +24,7 @@ The Tactical Response Team which will be referred to as TRT now are the first pe
 
 The Mobile Task Forces which will be referred to as MTF now are the most elite combatives on-site and are to only be deployed when necessary such as if multiple SCPs breached containment or there is a massive raid by a hostile group and is lead by O5-4.
 
-## Site Security Team
+## Security Corps
 
 The Site Security Team which will be referred to as SST now are in charge of making sure the site can maintain normal operations some of the tasks SST do include escorting tests, guarding the CDC, handling riots etc and is lead by O5-9.
 
